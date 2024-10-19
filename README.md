@@ -96,3 +96,4 @@ and the data base further it also checks four validations against the data enter
 commonly used front-end tools of MySQL are MySQL-Browser.
 
 #user manule
+important note : download the zip file extract the folder and directly run in server without any changes
